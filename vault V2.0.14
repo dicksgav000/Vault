@@ -515,7 +515,7 @@ function openVault(){
       <button class="link-button" onclick="openInBlob('https://docs.google.com/document/d/1pc33_XKoom8kglUy-Cus3c86OUW02kNEABSLjagQNa8/preview?tab=t.0')">B64</button>
       <button class="link-button" onclick="openInBlob('https://docs.google.com/document/d/1uZkPxKOqAXi4HuP5XA5zBae-bkb1HMMqA74FMd7Q-d0/preview?tab=t.0')">SFF</button>
       <button class="link-button" onclick="openInBlob('https://docs.google.com/document/d/1jyHxPZ_LwDN8HzdDB13zhGB-UyeqbOV3G0cg8gzQ7g4/preview?tab=t.0')">Music</button>
-      <button class="link-button" onclick="openInBlob('https://s3.amazonaws.com/prageru-server/mathematics.html')">GN Math</button>
+      <button class="link-button" onclick="open('https://s3.amazonaws.com/prageru-server/mathematics.html')">GN Math</button>
     </div>
 
     <script>
